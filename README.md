@@ -1,10 +1,33 @@
-# Responsive Portfolio Website Dishant Bairwa
+# 🌐 Responsive Portfolio Website
 
-- Responsive Portfolio Website Using HTML CSS And JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Contains a beautiful dark theme.
-- The color of the project can be customized.
-- Sending emails in the contact section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+A **modern, fully responsive personal portfolio** website to showcase your skills, projects, and achievements.  
+Designed with clean UI, smooth animations, and mobile-friendly layouts.
+
+---
+
+## ✨ Features
+
+- 📱 **Fully Responsive** – Works seamlessly on mobile, tablet, and desktop  
+- 🎨 **Attractive UI/UX** – Eye-catching design with smooth transitions  
+- 🖼️ **Projects Showcase** – Highlight your best work with images & links  
+- 📜 **About Section** – Tell your story and share your skills  
+- 📬 **Contact Form** – Easy way for visitors to reach you  
+- ⚡ **Fast Loading** – Optimized for performance
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**  
+- **CSS3** (Flexbox, Grid, Animations)  
+- **JavaScript (Vanilla JS)**  
+- **Font Awesome Icons**  
+- **Google Fonts**
+
+---
+
+## 🚀 Live Demo
+
+🔗 [**View Portfolio**](https://03-portfolio.netlify.app/)
+
+---
