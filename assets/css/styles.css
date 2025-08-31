@@ -490,7 +490,7 @@ img {
 }
 
 /*=============== EXPERIENCE ===============*/
-/* .experience__container{
+.experience__container{
   row-gap: 2rem;
 }
 
@@ -522,7 +522,7 @@ img {
 
 .experience__description{
   color: var(--text-color);
-} */
+}
 
 /*=============== CONTACT ===============*/
 .contact__group,
